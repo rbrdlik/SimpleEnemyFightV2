@@ -1,0 +1,14 @@
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\bin\Debug\net8.0\SimpleEnemyFightV2.exe
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\bin\Debug\net8.0\SimpleEnemyFightV2.deps.json
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\bin\Debug\net8.0\SimpleEnemyFightV2.runtimeconfig.json
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\bin\Debug\net8.0\SimpleEnemyFightV2.dll
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\bin\Debug\net8.0\SimpleEnemyFightV2.pdb
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.AssemblyInfoInputs.cache
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.AssemblyInfo.cs
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.csproj.CoreCompileInputs.cache
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.dll
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\refint\SimpleEnemyFightV2.dll
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.pdb
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\SimpleEnemyFightV2.genruntimeconfig.cache
+C:\Users\mrdon\RiderProjects\SimpleEnemyFightV2\SimpleEnemyFightV2\obj\Debug\net8.0\ref\SimpleEnemyFightV2.dll
